@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Manali",
+    "country": "India",
+    "scope": "Domestic",
+    "category": "Mountains",
+    "bestSeason": "March to June",
+    "budgetLevel": "Moderate",
+    "highlights": [
+      "Solang Valley",
+      "Hadimba Temple"
+    ],
+    "estimatedBudgetPerPerson": 9000
+  },
+  {
+    "name": "Shimla",
+    "country": "India",
+    "scope": "Domestic",
+    "category": "Mountains",
+    "bestSeason": "March to June",
+    "budgetLevel": "Moderate",
+    "highlights": [
+      "Mall Road",
+      "Kufri"
+    ],
+    "estimatedBudgetPerPerson": 8500
+  },
+  {
+    "name": "Goa",
+    "country": "India",
+    "scope": "Domestic",
+    "category": "Beaches",
+    "bestSeason": "November to February",
+    "budgetLevel": "Moderate",
+    "highlights": [
+      "Baga Beach",
+      "Fort Aguada"
+    ],
+    "estimatedBudgetPerPerson": 12000
+  },
+  {
+    "name": "Jaipur",
+    "country": "India",
+    "scope": "Domestic",
+    "category": "Historical Places",
+    "bestSeason": "October to March",
+    "budgetLevel": "Moderate",
+    "highlights": [
+      "Hawa Mahal",
+      "Amber Fort"
+    ],
+    "estimatedBudgetPerPerson": 8000
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "scope": "International",
+    "category": "Beaches",
+    "bestSeason": "April to October",
+    "budgetLevel": "Premium",
+    "highlights": [
+      "Uluwatu Temple",
+      "Seminyak Beach"
+    ],
+    "estimatedBudgetPerPerson": 45000
+  },
+  {
+    "name": "Pokhara",
+    "country": "Nepal",
+    "scope": "International",
+    "category": "Mountains",
+    "bestSeason": "October to April",
+    "budgetLevel": "Moderate",
+    "highlights": [
+      "Phewa Lake",
+      "Sarangkot"
+    ],
+    "estimatedBudgetPerPerson": 25000
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "scope": "International",
+    "category": "Cities & Culture",
+    "bestSeason": "April to June",
+    "budgetLevel": "Premium",
+    "highlights": [
+      "Eiffel Tower",
+      "Louvre Museum"
+    ],
+    "estimatedBudgetPerPerson": 110000
+  },
+  {
+    "name": "Maasai Mara",
+    "country": "Kenya",
+    "scope": "International",
+    "category": "Nature & Wildlife",
+    "bestSeason": "July to October",
+    "budgetLevel": "Premium",
+    "highlights": [
+      "Wildlife Safari",
+      "Great Migration"
+    ],
+    "estimatedBudgetPerPerson": 140000
+  }
+]
